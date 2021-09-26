@@ -1,7 +1,5 @@
-Name: Test
-
+name: test
 on: push
-
 jobs:
   job1: 
     name: Job one
